@@ -1,3 +1,5 @@
+//tohle je testovací
+
 <!DOCTYPE html>
 <html lang="cs">
 <head>
@@ -13,7 +15,8 @@
         h1 {
             color: #007bff;
         }
-    </style> // tests 
+    </style> 
+    <!-- Tohle je zkušební stránka -->
 </head>
 <body>
     <h1>Ahoj, svět!</h1>
