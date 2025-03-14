@@ -13,7 +13,7 @@
         h1 {
             color: #007bff;
         }
-    </style>
+    </style> // tests 
 </head>
 <body>
     <h1>Ahoj, svět!</h1>
